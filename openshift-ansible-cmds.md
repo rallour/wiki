@@ -3,7 +3,7 @@
 
 
 # Anatomy of an ansible command
-* ansible <target> -m <command>
+* ansible `<target>` -m `<command>`
 
 # Common Commands
 ## Ensure that ansible is able to connect to all hosts it knows about
