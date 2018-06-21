@@ -11,8 +11,7 @@
 # Common Commands
 ## Ping
 ### Ensure that ansible is able to reach via network all hosts that are under it's control in the open shift inventory file.
-#### Useage: `ansible all -m ping`
-
+Useage: `ansible all -m ping`
 
 ```text
 [root@bastion ansible]# ansible all -m ping
