@@ -3,6 +3,7 @@
 
 # Information Gathering
 * oc get status
+* oc get events
 * oc describe 
 # Project Maintenance
 # User Maintenance
