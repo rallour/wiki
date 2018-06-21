@@ -2,6 +2,7 @@
 <!-- SUBTITLE: A discussion / breakdown of the ansible.cfg for openshift. -->
 
 # Location
+The file is located at `/etc/ansible/ansible.cfg`
 # Contents
 # Things to modify
 
