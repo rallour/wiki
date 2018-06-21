@@ -4,7 +4,10 @@
 # Location
 # Contents
 # Things to modify
-## An example of a minimalist ansible.cfg we used in class.
+
+
+# Example Config
+## Minimalist ansible.cfg we used in class.
 ```text
 [defaults]
 inventory      = /etc/ansible/hosts
@@ -21,8 +24,7 @@ log_path = /var/log/ansible.log
 [colors]
 ```
 
-# Example Config
-
+## Complete ansible.cfg with comments
 ```text
 [root@bastion ansible]# cat ansible.cfg 
 # config file for ansible -- https://ansible.com/
