@@ -9,8 +9,9 @@
 
 
 # Common Commands
-## Ensure that ansible is able to connect to all hosts it knows about
-* ansible all -m ping
+## Ping
+### Ensure that ansible is able to reach via network all hosts that are under it's control in the open shift inventory file.
+#### Useage: `ansible all -m ping`
 
 
 ```text
