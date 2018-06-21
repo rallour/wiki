@@ -2,6 +2,8 @@
 <!-- SUBTITLE: Common Commands and Procedures -->
 
 # Information Gathering
+* oc get status
+* oc describe 
 # Project Maintenance
 # User Maintenance
 # Resource Quotas and Limits
