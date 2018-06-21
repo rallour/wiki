@@ -3,9 +3,12 @@
 
 # Location
 The file is located at `/etc/ansible/ansible.cfg`
-# Contents
-# Things to modify
 
+# Things to modify
+* inventory - The location of our modified inventory file
+* forks - Number of jobs that will be kicked off at the same time. Should be more than the number of pods
+* roles_path - Location of the modified roles configuration
+* log_path - Where to put the logs from an ansible run 
 
 # Example Config
 ## Minimalist ansible.cfg we used in class.
