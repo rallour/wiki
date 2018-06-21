@@ -4,7 +4,7 @@
 # Location
 # Contents
 # Things to modify
-#An example of a minimalist ansible.cfg we used in class.
+## An example of a minimalist ansible.cfg we used in class.
 ```text
 [defaults]
 inventory      = /etc/ansible/hosts
