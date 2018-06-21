@@ -25,46 +25,7 @@ node3.df2f.internal | SUCCESS => {
     "failed": false, 
     "ping": "pong"
 }
-node2.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-loadbalancer1.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-infranode2.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-infranode1.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-support1.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-master2.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-node1.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
-master1.df2f.internal | SUCCESS => {
-    "changed": false, 
-    "failed": false, 
-    "ping": "pong"
-}
+...
 
 ```
 
