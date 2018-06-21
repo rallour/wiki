@@ -68,3 +68,8 @@ master1.df2f.internal | SUCCESS => {
 
 ```
 
+## Shell
+### This command allows you to run arbitrary shell commands against the specified group of servers.
+Example: `ansible nodes -m shell -a 'systemctl status docker | grep Active '`
+
+
