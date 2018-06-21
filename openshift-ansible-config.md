@@ -4,6 +4,23 @@
 # Location
 # Contents
 # Things to modify
+#An example of a minimalist ansible.cfg we used in class.
+```text
+[defaults]
+inventory      = /etc/ansible/hosts
+forks          = 20
+roles_path    = /etc/ansible/roles:/usr/share/ansible/roles
+log_path = /var/log/ansible.log
+[inventory]
+[privilege_escalation]
+[paramiko_connection]
+[ssh_connection]
+[persistent_connection]
+[accelerate]
+[selinux]
+[colors]
+```
+
 # Example Config
 
 ```text
