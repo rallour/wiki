@@ -34,3 +34,18 @@ node3.df2f.internal | SUCCESS => {
 Example: `ansible nodes -m shell -a 'systemctl status docker | grep Active '`
 
 
+```text
+ansible nodes -m shell -a 'systemctl status docker | grep Active '
+master1.df2f.internal | SUCCESS | rc=0 >>
+   Active: active (running) since Thu 2018-06-21 13:21:37 UTC; 3h 57min ago
+
+node2.df2f.internal | SUCCESS | rc=0 >>
+   Active: active (running) since Thu 2018-06-21 13:21:37 UTC; 3h 57min ago
+
+node3.df2f.internal | SUCCESS | rc=0 >>
+   Active: active (running) since Thu 2018-06-21 13:21:43 UTC; 3h 57min ago
+
+...
+```
+
+
