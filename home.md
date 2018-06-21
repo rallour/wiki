@@ -11,3 +11,6 @@
 [Open Shift Ansible](openshift-ansible-cmds)
 # Open Shift Ansible Configuration
 [Open Shift Ansible Configuration](openshift-ansible-config)
+
+# Open Shift Server Preperation
+[Open Shift Infrastructure Prep](openshift-infrastructure-config)
