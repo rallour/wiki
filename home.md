@@ -3,5 +3,6 @@
 
 # Open Shift Class Notes
 # Open Shift Command Reference
+[Openshift command References and documentation ](command-reference)
 # Common Open Shift Tasks
 # Architecture Concepts / Diagrams
