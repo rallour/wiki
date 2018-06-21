@@ -30,7 +30,7 @@ node3.df2f.internal | SUCCESS => {
 ```
 
 ## Shell
-### This command allows you to run arbitrary shell commands against the specified group of servers.
+### This command allows you to run arbitrary shell commands against the specified group of servers. The command output, return code and server name are returned for each server that matches the selector.
 Example: `ansible nodes -m shell -a 'systemctl status docker | grep Active '`
 
 
