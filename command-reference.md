@@ -6,6 +6,7 @@
 * oc get events
 * oc describe
 * oc get nodes [--show-labels]
+* oc delete nodes [-l `<selector>=<value`]
 # Project Maintenance
 # User Maintenance
 # Resource Quotas and Limits
