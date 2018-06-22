@@ -6,7 +6,9 @@
 * oc get events
 * oc describe
 * oc get nodes [--show-labels]
-* oc delete nodes [-l *selector*=*value*]
+* oc get pods
+* oc get routes
+* oc get events --sort-by='.lastTimestamp'
 # Project Maintenance
 # User Maintenance
 # Pod Maintenance
