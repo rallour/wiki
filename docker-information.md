@@ -10,4 +10,6 @@
 ### docker rm -f *name*
 ## Inspect details about an image
 ### docker inspect -f '{{json .Mounts}}' *name* | jq
+## Delete image from the docker registry
+### docker rmi *image name*
 
