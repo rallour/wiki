@@ -5,4 +5,4 @@
 ## Run a docker container with a given name.
 ### docker run -d --name="*name*" *imagestore*/*imagename* 
 ## Tail the stdout of a running container specified by the given name
-### docker logs -f *name*       (Tails the stdout of the container)
+### docker logs -f *name*     
