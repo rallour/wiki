@@ -9,6 +9,10 @@
 * oc delete nodes [-l *selector*=*value*]
 # Project Maintenance
 # User Maintenance
+# Pod Maintenance
+* oc get pods
+* oc rsh *pod_name*
+* oc delete pods [-l *selector*=*value*]
 # Node Maintenance
 * oc get nodes
 * ssh *node*
