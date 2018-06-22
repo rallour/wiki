@@ -17,3 +17,6 @@
 
 # Open Shift Day in a Life
 [Day in the life of an Open Shift](day_in_life)
+
+# Documentation
+[List of Documentation Links](documentation-links)
