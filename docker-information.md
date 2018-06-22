@@ -2,7 +2,10 @@
 <!-- SUBTITLE: A place to put notes about Docker that I have learned from the pre-reqs -->
 
 # Useful Docker Commands
-## Run a docker container with a given name.
-### docker run -d --name="*name*" *imagestore*/*imagename* 
+## Run a docker container with a given name with optional env variable passed into the image.
+### docker run -d --name="*name*" *imagestore*/*imagename*  [ -e *key*=*value*]
 ## Tail the stdout of a running container specified by the given name
-### docker logs -f *name*     
+### docker logs -f *name*
+## Delete a docker image
+### docker rm -f *name*
+
