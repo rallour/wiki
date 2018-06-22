@@ -4,7 +4,8 @@
 # Information Gathering
 * oc get status
 * oc get events
-* oc describe 
+* oc describe
+* oc get nodes [--show-labels]
 # Project Maintenance
 # User Maintenance
 # Resource Quotas and Limits
