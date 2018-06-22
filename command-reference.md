@@ -9,6 +9,7 @@
 * oc get pods
 * oc get routes
 * oc get events --sort-by='.lastTimestamp'
+* oc types
 # Project Maintenance
 # User Maintenance
 # Pod Maintenance
