@@ -1,4 +1,4 @@
-<!-- TITLE: Dayinlife -->
+<!-- TITLE: A day in the life. -->
 <!-- SUBTITLE: A day in life of an openshift administrator. -->
 
 # Adding Users
