@@ -8,4 +8,6 @@
 ### docker logs -f *name*
 ## Delete a docker image
 ### docker rm -f *name*
+## Inspect details about an image
+### docker inspect -f '{{json .Mounts}}' *name* | jq
 
