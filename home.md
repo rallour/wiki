@@ -14,3 +14,6 @@
 
 # Open Shift Server Preperation
 [Open Shift Infrastructure Prep](openshift-infrastructure-config)
+
+# Open Shift Day in a Life
+[Day in the life of an Open Shift](day_in_life)
