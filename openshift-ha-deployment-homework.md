@@ -10,7 +10,7 @@
 * OCP: Open Shift Community of Practice [github repo](https://github.com/redhat-cop)
 
 # High Level Steps
-1. Create github repo to hold the homework requirements.
+~~1. Create github repo to hold the homework requirements.~~
 2. Create base inventory and documentation structure.
 3. 
 # Basic and HA Requirements
