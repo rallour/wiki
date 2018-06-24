@@ -9,7 +9,10 @@
 * [Homework Description Link](https://www.opentlc.com/labs/ocp_advanced_deployment/07_1_Assignment_Lab.html)
 * OCP: Open Shift Community of Practice [github repo](https://github.com/redhat-cop)
 
-
+# High Level Steps
+1. Create github repo to hold the homework requirements.
+2. Create base inventory and documentation structure.
+3. 
 # Basic and HA Requirements
 * Ability to authenticate at the master console
 * Registry has storage attached and working
