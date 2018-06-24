@@ -12,21 +12,12 @@
 
 # Basic and HA Requirements
 * Ability to authenticate at the master console
-* 
 * Registry has storage attached and working
-* 
 * Router is configured on each infranode
-* 
 * PVs of different types are available for users to consume
-* 
 * Ability to deploy a simple app (nodejs-mongo-persistent)
-* 
 * There are three masters working
-* 
 * There are three etcd instances working
-* 
 * There is a load balancer to access the masters called loadbalancer.$GUID.$DOMAIN
-* 
 * There is a load balancer/DNS for both infranodes called \*.apps.$GUID.$DOMAIN
-* 
 * There are at least two infranodes, labeled env=infra
