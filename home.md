@@ -27,4 +27,6 @@
 # Other Tools
 [Other Tools useful when building / working with Open Shift](openshift-other-tools)
 
+# Open Shift HA Deployment Homework
+[Everything related to the HA Deployment homework](openshift-ha-deployment-homework)
 
